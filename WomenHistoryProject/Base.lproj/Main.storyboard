@@ -11,7 +11,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="XodeProject" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="WomenHistoryProject" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="1100"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -107,7 +107,7 @@
                                 <rect key="frame" x="16" y="173" width="358" height="269"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Jatavia Shakara Johnson is a rapper best known as one-half of the Miami-based hip hop duo known as City Girls. She rose to fame with her appearance in Drake's In My Feeling song. The rapper is also recognized for releasing her single, Twerk, which featured Cardi B.</mutableString>
+                                <string key="text">Jatavia Shakara Johnson is a rapper best known as one-half of the Miami-based hip hop duo known as City Girls. She rose to fame with her appearance in Drake's In My Feeling song. The rapper is also recognized for releasing her single, Twerk, which featured Cardi B.</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -138,7 +138,7 @@
                                 <rect key="frame" x="27" y="88" width="337" height="531.33333333333337"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">Yui Ishikawa (石川 由依, , born May 30, 1989) is a Japanese actress who was previously represented by Sunaoka Office but now works for mitt management. She usually works mainly on stage. Her specialities are classical ballet, jazz dance, and tap dance. Before she started as a voice actress, she was a stage actress and has been voicing radio dramas since 2007.</mutableString>
+                                <string key="text">Yui Ishikawa (石川 由依, , born May 30, 1989) is a Japanese actress who was previously represented by Sunaoka Office but now works for mitt management. She usually works mainly on stage. Her specialities are classical ballet, jazz dance, and tap dance. Before she started as a voice actress, she was a stage actress and has been voicing radio dramas since 2007.</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -168,7 +168,7 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hNp-VM-aAT">
                                 <rect key="frame" x="54" y="119" width="307" height="294"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemGray2Color"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">Amala Ratna Zandile Dlamini, known professionally as Doja Cat, is an American rapper, singer, songwriter, and record producer. Born and raised in Los Angeles, she began making and releasing music on SoundCloud as a teenager.</string>
                                 <color key="textColor" systemColor="labelColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
@@ -219,9 +219,6 @@
         </systemColor>
         <systemColor name="systemBrownColor">
             <color red="0.63529411764705879" green="0.51764705882352946" blue="0.36862745098039218" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        </systemColor>
-        <systemColor name="systemGray2Color">
-            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
