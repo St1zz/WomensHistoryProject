@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5D0B2B0E27F331E3009154AA /* XodeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XodeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D0B2B0E27F331E3009154AA /* WomenHistoryProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WomenHistoryProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D0B2B1127F331E3009154AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D0B2B1327F331E3009154AA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5D0B2B1527F331E3009154AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		5D0B2B0527F331E3009154AA = {
 			isa = PBXGroup;
 			children = (
-				5D0B2B1027F331E3009154AA /* XodeProject */,
+				5D0B2B1027F331E3009154AA /* WomenHistoryProject */,
 				5D0B2B0F27F331E3009154AA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		5D0B2B0F27F331E3009154AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5D0B2B0E27F331E3009154AA /* XodeProject.app */,
+				5D0B2B0E27F331E3009154AA /* WomenHistoryProject.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5D0B2B1027F331E3009154AA /* XodeProject */ = {
+		5D0B2B1027F331E3009154AA /* WomenHistoryProject */ = {
 			isa = PBXGroup;
 			children = (
 				5D0B2B1127F331E3009154AA /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				5D0B2B1C27F331E5009154AA /* LaunchScreen.storyboard */,
 				5D0B2B1F27F331E5009154AA /* Info.plist */,
 			);
-			path = XodeProject;
+			path = WomenHistoryProject;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5D0B2B0D27F331E3009154AA /* XodeProject */ = {
+		5D0B2B0D27F331E3009154AA /* WomenHistoryProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5D0B2B2227F331E5009154AA /* Build configuration list for PBXNativeTarget "XodeProject" */;
+			buildConfigurationList = 5D0B2B2227F331E5009154AA /* Build configuration list for PBXNativeTarget "WomenHistoryProject" */;
 			buildPhases = (
 				5D0B2B0A27F331E3009154AA /* Sources */,
 				5D0B2B0B27F331E3009154AA /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = XodeProject;
+			name = WomenHistoryProject;
 			productName = XodeProject;
-			productReference = 5D0B2B0E27F331E3009154AA /* XodeProject.app */;
+			productReference = 5D0B2B0E27F331E3009154AA /* WomenHistoryProject.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5D0B2B0927F331E3009154AA /* Build configuration list for PBXProject "XodeProject" */;
+			buildConfigurationList = 5D0B2B0927F331E3009154AA /* Build configuration list for PBXProject "WomenHistoryProject" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5D0B2B0D27F331E3009154AA /* XodeProject */,
+				5D0B2B0D27F331E3009154AA /* WomenHistoryProject */,
 			);
 		};
 /* End PBXProject section */
@@ -299,7 +299,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.TomiwaBabalola.XodeProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JustinWallen.XodeProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -326,7 +326,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.TomiwaBabalola.XodeProject;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JustinWallen.XodeProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -337,7 +337,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5D0B2B0927F331E3009154AA /* Build configuration list for PBXProject "XodeProject" */ = {
+		5D0B2B0927F331E3009154AA /* Build configuration list for PBXProject "WomenHistoryProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D0B2B2027F331E5009154AA /* Debug */,
@@ -346,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5D0B2B2227F331E5009154AA /* Build configuration list for PBXNativeTarget "XodeProject" */ = {
+		5D0B2B2227F331E5009154AA /* Build configuration list for PBXNativeTarget "WomenHistoryProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5D0B2B2327F331E5009154AA /* Debug */,
